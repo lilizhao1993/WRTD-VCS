@@ -3,7 +3,7 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 # Results
 ## The sampling rate of key frames and non-key frames are 0.5 and 0.2, respectively.
 
-**Average PSNR the first two GOPs of different methods**  
+**Average PSNR for  seven GOPs of different methods**  
 
 |  Sequences | KTSLR |  MCME | Video-MH |  RRS  | VCSNet-1 | VCSNet-2 | Proposed |
 |:----------:|:-----:|:-----:|:--------:|:-----:|:--------:|:--------:|:--------:|
@@ -15,7 +15,7 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 |   Silent   | 31.50 | 33.47 |   34.04  | 36.14 |   36.39  |   36.44  |   **36.88**  |
 |   Average  | 31.39 | 33.33 |   34.48  | 37.60 |   35.81  |   36.10  |   **38.98**  |
 
-**Average SSIM the first two GOPs of different methods**  
+**Average SSIM fo seven GOPs of different methods**  
 
 |  Sequences |  KTSLR |  MCME  | Video-MH |   RRS  | VCSNet-1 | VCSNet-2 | Proposed |
 |:----------:|:------:|:------:|:--------:|:------:|:--------:|:--------:|:--------:|
