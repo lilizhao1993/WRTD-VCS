@@ -29,4 +29,4 @@ Coming soon.
 [2] S. Mun and J. E. Fowler, “Residual reconstruction for block-based compressed sensing of video,” in Data Compression Conference (DCC). IEEE, 2011, pp. 183–192.  
 [3] E. W. Tramel and J. E. Fowler, “Video compressed sensing with multihypothesis,” in Data Compression Conference (DCC). IEEE, 2011, pp. 193–202.  
 [4] C. Zhao, S. Ma, J. Zhang, R. Xiong, and W. Gao, “Video compressive sensing reconstruction via reweighted residual sparsity,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, pp. 1182–1195, June 2017.  
-[5] 
+[5] W. Shi, S. Liu; F. Jiang and D. Zhao, "Video compressed sensing using a convolutional neural network," IEEE Transactions on Circuits and Systems for Video Technology, March 2020.  
