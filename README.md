@@ -24,7 +24,7 @@ Coming soon.
 
 
 
-#References
+# References
 [1]S. G. Lingala, Y. Hu, E. Dibella, and M. Jacob, “Accelerated dynamic mri exploiting sparsity and low-rank structure: k-t slr,” IEEE Transactions on Medical Imaging, vol. 30, pp. 1042–1054, January 2011.
 [2]S. Mun and J. E. Fowler, “Residual reconstruction for block-based compressed sensing of video,” in Data Compression Conference (DCC). IEEE, 2011, pp. 183–192.
 [3]E. W. Tramel and J. E. Fowler, “Video compressed sensing with multihypothesis,” in Data Compression Conference (DCC). IEEE, 2011, pp. 193–202.
