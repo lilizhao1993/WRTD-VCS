@@ -27,6 +27,7 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 |   Silent   | 0.8534 | 0.8960 |  0.9004  | 0.9297 |  0.9445  |  **0.9443**  |  0.9421  |
 |   Average  | 0.8577 | 0.8963 |  0.8989  | 0.9445 |  0.9361  |  0.9396  |  **0.9548**  |
 
+## Visual comparisons of first phase.
 
 
 # References
@@ -34,4 +35,4 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 [2] S. Mun and J. E. Fowler, “Residual reconstruction for block-based compressed sensing of video,” in Data Compression Conference (DCC). IEEE, 2011, pp. 183–192.  
 [3] E. W. Tramel and J. E. Fowler, “Video compressed sensing with multihypothesis,” in Data Compression Conference (DCC). IEEE, 2011, pp. 193–202.  
 [4] C. Zhao, S. Ma, J. Zhang, R. Xiong, and W. Gao, “Video compressive sensing reconstruction via reweighted residual sparsity,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, pp. 1182–1195, June 2017.  
-[5] W. Shi, S. Liu; F. Jiang and D. Zhao, "Video compressed sensing using a convolutional neural network," IEEE Transactions on Circuits and Systems for Video Technology, March 2020.  
+[5] W. Shi, S. Liu; F. Jiang and D. Zhao, "Video compressed sensing using a convolutional neural network," IEEE Transactions on Circuits and Systems for Video Technology, March 2020.        
