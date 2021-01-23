@@ -29,6 +29,8 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 
 ## Visual comparisons of first phase.
 
+###
+
 
 # References
 [1] S. G. Lingala, Y. Hu, E. Dibella, and M. Jacob, “Accelerated dynamic mri exploiting sparsity and low-rank structure: k-t slr,” IEEE Transactions on Medical Imaging, vol. 30, pp. 1042–1054, January 2011.  
