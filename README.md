@@ -1,7 +1,7 @@
 # Video compressive sensing via weighted residual tensor decomposition
 We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], RRS[4], VCSNet[5]. [1]-[4] are taditional model-based methods and [5] is a recently proposed CNN-based methd. Six sequences are used to evaluate the proposed method.   
 # Results
-## The sampling rate of key frames and non-key frames are 0.5 and 0.2, respectively.
+## The sampling rate of key frames and non-key frames are 0.5 and 0.2, respectively. 
 
 **Average PSNR for  seven GOPs of different methods**  
 
@@ -29,7 +29,9 @@ We compare the proposed method (WRTD-VCS) with KTSLR[1], MCME[2], Video-MH[3], R
 
 ## Visual comparisons of first phase.
 
-###
+###Sampling rate=0.5
+
+###Sampling rate=0.2
 
 
 # References
